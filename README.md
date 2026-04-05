@@ -1,6 +1,14 @@
 # AxionAura
 
-> Open source by default. Free for everyone.
+<p align="center">
+  <img src="./img/logo.svg" width="96" alt="AxionAura Logo" />
+</p>
+<p align="center">
+  <strong>Open source by default. Free for everyone.</strong><br/>
+  <a href="https://axionaura.blogspot.com/">🌐 Website</a> • <a href="mailto:axionaura45@gmail.com">✉️ Email</a>
+</p>
+
+---
 
 Everything we build is built with one principle: **no one should be locked out**. All projects under AxionAura are open source, free to use, modify, and distribute.
 
@@ -22,6 +30,7 @@ Everything we build is built with one principle: **no one should be locked out**
 
 | Platform | Link |
 |----------|------|
+| Website | [axionaura.blogspot.com](https://axionaura.blogspot.com/) |
 | Email | [axionaura45@gmail.com](mailto:axionaura45@gmail.com) |
 | Telegram | [@AxionAura](https://t.me/AxionAura) |
 | X (Twitter) | [@AxionAura](https://x.com/AxionAura) |
