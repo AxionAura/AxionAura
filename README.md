@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <strong>Open source by default. Free for everyone.</strong><br/>
-  <a href="https://axionaura.blogspot.com/">🌐 Website</a> • <a href="mailto:axionaura45@gmail.com">✉️ Email</a>
+  <a href="https://axionaura.blogspot.com/">🌐 Website</a>
 </p>
 
 ---
