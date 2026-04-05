@@ -5,7 +5,6 @@
 </p>
 <p align="center">
   <strong>Open source by default. Free for everyone.</strong><br/>
-  <a href="https://axionaura.blogspot.com/">🌐 Website</a>
 </p>
 
 ---
