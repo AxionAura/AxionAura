@@ -31,7 +31,7 @@ Everything we build is built with one principle: **no one should be locked out**
 |----------|------|
 | Website | [axionaura.blogspot.com](https://axionaura.blogspot.com/) |
 | Email | [axionaura45@gmail.com](mailto:axionaura45@gmail.com) |
-| Telegram | [@AxionAura](https://t.me/AxionAura) |
 | X (Twitter) | [@AxionAura](https://x.com/AxionAura) |
+| Telegram | [@AxionAura](https://t.me/AxionAura) |
 | Facebook | [AxionAura](https://www.facebook.com/AxionAura) |
 | Instagram | [@axion.aura](https://www.instagram.com/axion.aura) |
