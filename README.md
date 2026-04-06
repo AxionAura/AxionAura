@@ -34,4 +34,4 @@ Everything we build is built with one principle: **no one should be locked out**
 | Telegram | [@AxionAura](https://t.me/AxionAura) |
 | X (Twitter) | [@AxionAura](https://x.com/AxionAura) |
 | Facebook | [AxionAura](https://www.facebook.com/AxionAura) |
-| Instagram | [@AxionAura](https://www.instagram.com/AxionAura) |
+| Instagram | [@AxionAura](https://www.instagram.com/axion.aura) |
