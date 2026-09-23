@@ -21,7 +21,7 @@ AxionAura is an independent open-source software project. Everything we build fo
 
 ### [social-live](https://github.com/AxionAura/social-live)
 
-Self-hosted live streaming dashboard — broadcast recorded videos to **YouTube** and **Facebook** via FFmpeg. Your keys, your server, no SaaS.
+Self-hosted live streaming dashboard — broadcast recorded videos to **YouTube**, **Facebook**, **Twitch**, and **Kick** via FFmpeg. Your keys, your server, no SaaS.
 
 ![Status](https://img.shields.io/badge/status-live-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-AGPL--3.0--or--later-blue?style=flat-square)
