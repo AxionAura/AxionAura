@@ -17,6 +17,7 @@ Everything we build is built with one principle: **no one should be locked out**
 |---------|-------------|--------|
 | [openrouter-proxy](https://github.com/AxionAura/openrouter-proxy) | Lightweight Python proxy for the OpenRouter API with key rotation, streaming support, and zero dependencies. | Live |
 | [onalytics](https://github.com/AxionAura/onalytics) | Open source, privacy-first web analytics. No cookies, no tracking, no BS. Drop-in script + SQLite dashboard. | Live |
+| [social-live](https://github.com/AxionAura/social-live) | Self-hosted live streaming dashboard — broadcast recorded videos to YouTube & Facebook via FFmpeg. Your keys, your server, no SaaS. | Live |
 | *More on the way* | — | Coming soon |
 
 ## Principles
